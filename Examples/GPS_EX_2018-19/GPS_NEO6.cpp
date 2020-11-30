@@ -4,8 +4,8 @@
 #include <stdint.h>
 #include <TinyGPS++.h>
 
-#include "GPS_NEO6.h"
-#include "GPS.h"
+#include "GPS/Include/GPS_2018-19/GPS_NEO6.h"
+#include "GPS/Include/GPS_2018-19/GPS(2018-19).h"
 
 GPS_NEO6::GPS_NEO6() {}
 GPS_NEO6::~GPS_NEO6() {}

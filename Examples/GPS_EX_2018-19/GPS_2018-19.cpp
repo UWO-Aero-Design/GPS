@@ -4,7 +4,7 @@
 
 #include <Arduino.h>
 #include "GPS/Include/GPS_2018-19/GPS_NEO6.h"           //Might need to change these back
-#include "GPS/Include/GPS_2018-19/GPS(2018-19).h"
+#include "GPS/Include/GPS_2018-19/GPS_2018-19.h"
 
 GPS::GPS() {}
 GPS::~GPS() {}
